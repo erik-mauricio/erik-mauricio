@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/erikmauricio) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:em882@cornell.edu) 
@@ -16,4 +16,4 @@
 [![](https://visitcount.itsvg.in/api?id=erik-mauricio&icon=2&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
+
